@@ -10,7 +10,7 @@
   ·
   <a href="https://github.com/VoldemLive?tab=repositories">Repositories</a>
   ·
-  <a href="https://github.com/users/VoldemLive/contributions">Engineering activity</a>
+  <a href="https://github.com/users/VoldemLive/contributions">Engineering activity</a>\n  ·\n  <a href="https://www.linkedin.com/in/vshynkarov/">LinkedIn</a>
 </p>
 
 ---
@@ -106,5 +106,5 @@ For selected private projects I publish safe case studies covering the problem, 
 
 <p align="center">
   Based in Chicago · Connected with the Code the Dream community<br />
-  Open to product engineering, AI tooling, and thoughtful technical collaboration.
+  <a href="https://www.linkedin.com/in/vshynkarov/">Connect on LinkedIn</a> for product engineering, AI tooling, and thoughtful technical collaboration.
 </p>
