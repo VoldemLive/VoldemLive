@@ -10,7 +10,7 @@
   ·
   <a href="https://github.com/VoldemLive?tab=repositories">Repositories</a>
   ·
-  <a href="https://github.com/users/VoldemLive/contributions">Engineering activity</a>
+  <a href="https://github.com/VoldemLive#js-contribution-activity-description">Engineering activity</a>
   ·
   <a href="https://www.linkedin.com/in/vshynkarov/">LinkedIn</a>
 </p>
