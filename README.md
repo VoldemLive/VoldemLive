@@ -69,13 +69,13 @@ A privacy-first peer-to-peer file transfer product designed around WebRTC, end-t
 </td>
 <td width="50%" valign="top">
 
-### [App Store Scraper + MCP](https://github.com/VoldemLive/app-store-scraper)
+### [Battle 2048](https://battle2048.com)
 
-A substantially extended open-source fork for App Store market data, with a TypeScript MCP server, resilient transport, schemas, and test coverage.
+A production multiplayer adaptation of 2048 with real-time matches, matchmaking, AI opponents, strategic attack and heal mechanics, leaderboards, and a 13-language interface.
 
-`TypeScript` `MCP` `Node.js` `Mocha` `App Store data`
+`Next.js` `Socket.IO` `Supabase` `Docker` `Real-time multiplayer`
 
-**Public · maintained fork**
+**Live product · private source**
 
 </td>
 </tr>
