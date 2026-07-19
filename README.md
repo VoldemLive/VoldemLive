@@ -58,13 +58,13 @@ An App Store discovery engine that grows and ranks keyword branches using live m
 <tr>
 <td width="50%" valign="top">
 
-### [Shipri](https://github.com/bit-bridge-studio/shipri)
+### [LoadHaste](https://loadhaste.com/)
 
-A privacy-first peer-to-peer file transfer product designed around WebRTC, end-to-end encryption, and self-hosted signaling.
+A production cargo-search and spider-orchestration platform for freight-board automation, persistent search jobs, and operational monitoring.
 
-`WebRTC` `React` `Socket.IO` `Web Crypto` `Docker`
+`Next.js` `Node.js` `Supabase` `Docker` `Container orchestration`
 
-**Public · active development**
+**Live product · private source**
 
 </td>
 <td width="50%" valign="top">
