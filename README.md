@@ -81,6 +81,16 @@ A production multiplayer adaptation of 2048 with real-time matches, matchmaking,
 </tr>
 </table>
 
+## Open source
+
+### [Reveal Sequence](https://github.com/VoldemLive/reveal-sequence)
+
+An append-aware React primitive for streaming text and newly inserted keyed UI. It schedules only incoming content, bounds live animation wrappers, and compacts settled text back to ordinary DOM.
+
+<code>React</code> <code>TypeScript</code> <code>Web Animations API</code> <code>Intl.Segmenter</code>
+
+[npm package](https://www.npmjs.com/package/reveal-sequence) · [interactive playground](https://voldemlive.github.io/reveal-sequence/) · [source](https://github.com/VoldemLive/reveal-sequence)
+
 More product work and architecture notes are available on my [portfolio](https://voldemlive.github.io).
 
 ## Core stack
