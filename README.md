@@ -85,7 +85,7 @@ A production multiplayer adaptation of 2048 with real-time matches, matchmaking,
 
 ### [Reveal Sequence](https://github.com/VoldemLive/reveal-sequence)
 
-An append-aware React primitive for streaming text and newly inserted keyed UI. It schedules only incoming content, bounds live animation wrappers, and compacts settled text back to ordinary DOM.
+Append-aware React primitive for streaming text and keyed UI, with bounded animation work and a clean settled DOM.
 
 <code>React</code> <code>TypeScript</code> <code>Web Animations API</code> <code>Intl.Segmenter</code>
 
